@@ -9,7 +9,8 @@ import {
   updateUserByemail,
 } from "../services/users.service.js";
 
-const clienturl = "http://localhost:3002";
+const clienturl = "https://celadon-unicorn-ce7898.netlify.app";
+// "http://localhost:3002";
 
 const router = express.Router();
 
